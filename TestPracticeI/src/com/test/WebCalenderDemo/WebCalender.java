@@ -5,8 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class WebCalender {
 
 	public static WebDriver driver;
-	public static String chDriverPath = "D:/Kavita/Drivers/";
-
+	
 	public static void BasicProces() {
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\Kavita\\Drivers\\chromedriver\\chromedriver.exe");
